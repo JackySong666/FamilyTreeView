@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/FamilyTreeView.svg?style=flat)](http://cocoadocs.org/docsets/FamilyTreeView)
 
 
-FamilyTreeView is an Objective-C class that builds and displays a family tree.
+FamilyTreeView is an Objective-C class that builds and displays a family tree view for iOS.
 <p align="center" >
 <img src="https://raw.githubusercontent.com/chenyun122/FamilyTreeView/master/Screenshot170830.PNG" alt="FamilyTreeView" title="FamilyTreeView">
 </p>
